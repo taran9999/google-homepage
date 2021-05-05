@@ -47,3 +47,7 @@ a:hover {
     align-items: center;
     flex-direction: column;
 }
+
+#avatarSmall {
+    border-radius: 50%;
+}
