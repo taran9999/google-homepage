@@ -30,6 +30,17 @@ a:hover {
     padding: 6px;
 }
 
+.topBlock {
+    display: inline-block;
+    flex-grow: 1;
+}
+
+.topRight {
+    float: right;
+    padding-left: 32px;
+    font-size: 13px;
+}
+
 .center {
     display: flex;
     align-items: center;
