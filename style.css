@@ -25,24 +25,16 @@ a:hover {
     text-decoration: underline;
 }
 
-.topBar, .bottomBar {
-    display: flex;
-    align-items: center;
+.header {
     padding: 6px;
 }
 
-.topBlock, .bottomBlock {
-    display: inline-block;
-    flex-grow: 1;
+.header-left {
+    float: left;
 }
 
-.topRight, .bottomRight {
+.header-right {
     float: right;
-    padding-left: 32px;
-}
-
-.topRight {
-    font-size: 13px;
 }
 
 .center {
