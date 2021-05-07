@@ -3,6 +3,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
 }
 
 ul {
@@ -32,7 +33,7 @@ a:hover {
 }
 
 .footer {
-    background-color: rgb(242, 242, 242)
+    background-color: rgb(242, 242, 242);
 }
 
 .header-left, .footer-left {
@@ -47,6 +48,7 @@ a:hover {
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin: auto;
 }
 
 #avatarSmall {
