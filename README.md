@@ -8,6 +8,7 @@ Recreation of the Google home page. Project for The Odin Project.
 * Creating the top navbar with hyperlinks.
 * Adding apps and user icon to the top navbar.
 * Creating the bottom navbar.
+* Coloring bottom navbar.
 ---
 ## To Do
 * Adding buttons to the center region.
@@ -15,4 +16,3 @@ Recreation of the Google home page. Project for The Odin Project.
 * Placing the apps and user icons better.
 * Adding hover effects to the apps and user icons.
 * Positioning bottom navbar and elements in it.
-* Coloring bottom navbar.
