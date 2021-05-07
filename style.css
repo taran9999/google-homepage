@@ -44,6 +44,10 @@ a:hover {
     float: right;
 }
 
+.header-right {
+    font-size: 13px;
+}
+
 .center {
     display: flex;
     align-items: center;
