@@ -38,6 +38,7 @@ a:hover {
 
 .footer a {
     color: rgb(112, 117, 122);
+    padding: 15px;
 }
 
 .header-left, .footer-left {
