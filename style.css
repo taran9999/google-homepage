@@ -36,6 +36,10 @@ a:hover {
     background-color: rgb(242, 242, 242);
 }
 
+.footer a {
+    color: rgb(112, 117, 122);
+}
+
 .header-left, .footer-left {
     float: left;
 }
